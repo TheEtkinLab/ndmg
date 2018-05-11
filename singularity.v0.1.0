@@ -1,5 +1,5 @@
 Bootstrap: docker
-From: bids/ndmg
+From: etkinlab/ndmg
 
 %help
 You are in the BIDS-ndmg container. To see help run
