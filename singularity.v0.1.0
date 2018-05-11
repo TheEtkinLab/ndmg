@@ -1,5 +1,5 @@
 Bootstrap: docker
-From: etkinlab/ndmg
+From: bids/ndmg
 
 %help
 You are in the BIDS-ndmg container. To see help run
@@ -12,7 +12,7 @@ singularity run TheEtkinLab-ndmg.simg -h
 
 %labels
 Author mnarayan@users.noreply.github.com
-Build-date 20/01/2018
+Build-date 10/05/2018
 Vendor Ubuntu
 Version v0.1.0
 
